@@ -1,6 +1,4 @@
-/* Arduino USB Keyboard HID demo
- * Cut/Copy/Paste Keys
- */
+
 
 #define KEY_LEFT_CTRL	0x01
 #define KEY_LEFT_SHIFT	0x02
